@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.spring.HotelTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-19T00:54:23" hostname="DESKTOP-GKETFOC" time="0.015">
+  <properties/>
+  <testcase name="hotelTest()" classname="org.example.spring.HotelTest" time="0.015"/>
+  <system-out><![CDATA[?뒪?쐞?듃猷몄쓣 ?삁?빟?빀?땲?떎.
+?븳?떇?쓣 二쇰Ц?빀?땲?떎.
+源??뎽?봽媛? ?슂由ы빀?땲?떎.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
